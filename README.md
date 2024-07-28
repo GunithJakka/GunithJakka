@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-I'm Gunith Jakka, a passionate and experienced software engineer specializing in web and enterprise applications. I have over 10 years of experience in designing, developing, and optimizing software solutions, currently working as a Senior Full Stack Java Developer at JPMorgan Chase & Co.
+I'm Gunith Jakka, a dedicated software engineer specializing in web and enterprise applications. Currently, I'm pursuing my Master's in Computer Science at Illinois Institute of Technology and working as a Software Engineer Intern at Leap of Faith Technologies Inc.
 
 ### 🌱 I’m currently working on
-- **[AO Medication Order Generation and TheraCare AI Persona Optimization](link_to_repo)**: A Flutter Dart application focused on improving medication adherence through personalized AI personas.
+- **[TheraCare AI](link_to_repo)**: A Flutter Dart application focused on improving medication adherence through personalized AI personas.
 
 ### 🌱 I’m currently learning
-- **Angular**
-- **TypeScript**
+- **Flutter, Dart, Low-Level Design (LLD), High-Level Design (HLD)**
 
 ### 👯 I’m looking to collaborate on
 - Open source projects related to healthcare technology and AI-driven solutions.
@@ -20,7 +19,6 @@ I'm Gunith Jakka, a passionate and experienced software engineer specializing in
 ### 📫 How to reach me
 - **Email:** [gunith.jakka@gmail.com](mailto:gunith.jakka@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jakka-gunith](https://www.linkedin.com/in/jakka-gunith)
-- **Portfolio:** [jakka-gunith.web.app](https://jakka-gunith.web.app)
 
 ### 🌐 Connect with me
 <p align="left">
@@ -42,7 +40,11 @@ I'm Gunith Jakka, a passionate and experienced software engineer specializing in
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GunithJakka&show_icons=true&locale=en&layout=compact" alt="GunithJakka" /></p>
