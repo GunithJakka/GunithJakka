@@ -1,33 +1,34 @@
 ## Hi there 👋
 
-I'm Gunith Jakka, a software engineer specializing in web and enterprise applications. Currently, I'm pursuing my Master's in Computer Science at Illinois Institute of Technology and working as a Software Engineer Intern at Leap of Faith Technologies Inc.
+I'm Gunith Jakka, a dedicated software engineer specializing in web and enterprise applications. Currently, I'm pursuing my Master's in Computer Science at Illinois Institute of Technology and working as a Software Engineer Intern at Leap of Faith Technologies Inc.
 
-### 🌱 I’m currently working on
-- **[TheraCare AI]**: A Flutter Dart application focused on improving medication adherence through personalized AI personas.
+### Currently Working On
+- **TheraCare AI**: A Flutter Dart application focused on improving medication adherence through personalized AI personas.
 
-### 🌱 I’m currently learning
-- **Flutter, Dart, Low-Level Design (LLD), High-Level Design (HLD)**
+### Currently Learning
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
 
-### 👯 I’m looking to collaborate on
+### Looking to Collaborate On
 - Open source projects related to healthcare technology and AI-driven solutions.
 
-### 💬 Ask me about
+### Ask Me About
 - Java, Spring, Hibernate, Angular, React, and more.
 - Building and deploying scalable web applications.
 - Integrating AI and ML in software solutions.
 
-### 📫 How to reach me
+### How to Reach Me
 - **Email:** [gunith.jakka@gmail.com](mailto:gunith.jakka@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jakka-gunith](https://www.linkedin.com/in/jakka-gunith)
 
-### 🌐 Connect with me
+### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/jakka-gunith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakka-gunith" height="30" width="40" /></a>
   <a href="https://instagram.com/jakkagunith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakkagunith" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/jakkagunith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jakkagunith" height="30" width="40" /></a>
 </p>
 
-### 🛠 Languages and Tools
+### Languages and Tools
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
