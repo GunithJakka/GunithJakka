@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gunith Jakka, a dedicated software engineer specializing in web and enterprise applications. Currently, I'm pursuing my Master's in Computer Science at Illinois Institute of Technology and working as a Software Engineer Intern at Leap of Faith Technologies Inc.
+I'm Gunith Jakka, a software engineer specializing in web and enterprise applications. Currently, I'm pursuing my Master's in Computer Science at Illinois Institute of Technology and working as a Software Engineer Intern at Leap of Faith Technologies Inc.
 
 ### Currently Working On
 - **TheraCare AI**: A Flutter Dart application focused on improving medication adherence through personalized AI personas.
