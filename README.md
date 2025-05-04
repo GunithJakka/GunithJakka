@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Gunith Jakka, a Software Development Engineer at Amazon with a strong background in web and enterprise applications. I recently completed my Master’s in Computer Science at Illinois Institute of Technology, and previously worked as a Software Engineer Intern at Leap of Faith Technologies Inc., where I focused on healthcare technologies and EHR integrations.
+I’m Gunith Jakka, a Software Development Engineer at Amazon with a strong background in web and enterprise applications. I recently completed my Master’s in Computer Science at Illinois Institute of Technology, and previously worked as a Software Engineer at Leap of Faith Technologies Inc., where I focused on healthcare technologies and EHR integrations.
 
 ### Currently Working On
 - **AWS Elastic Cache**
